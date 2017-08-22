@@ -35,19 +35,19 @@ Edit Button Clicked
 
 After Saving
 
-![Alt text](/screenshots/Picture5.png?raw=true "After Save")
+![Alt text](/screenshots/Picture6.png?raw=true "After Save")
 
 Adding New customer with State and city
 
-![Alt text](/screenshots/Picture6.png?raw=true "AddNewCustomer")
+![Alt text](/screenshots/Picture7.png?raw=true "AddNewCustomer")
 
 After added the new user, it will reflect in the table.
 
-![Alt text](/screenshots/Picture7.png?raw=true "Table")
+![Alt text](/screenshots/Picture8.png?raw=true "Table")
 
 Create New User in the home Page
 
-![Alt text](/screenshots/Picture8.png?raw=true "Table")
+![Alt text](/screenshots/Picture9.png?raw=true "Table")
 
 
 
