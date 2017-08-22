@@ -19,4 +19,47 @@ Please login admin@email.com/admin
 
 ![Alt text](/screenshots/Picture1.png?raw=true "Login")
 
+After logging in it will redirect Home screen:
+
+![Alt text](/screenshots/Picture2.png?raw=true "Home")
+
+Searching the user:
+
+![Alt text](/screenshots/Picture3.png?raw=true "Search")
+
+Edit the user:
+
+Edit Button Clicked
+
+![Alt text](/screenshots/Picture4.png?raw=true "Edit")
+
+After Saving
+
+![Alt text](/screenshots/Picture5.png?raw=true "After Save")
+
+Adding New customer with State and city
+
+![Alt text](/screenshots/Picture6.png?raw=true "AddNewCustomer")
+
+After added the new user, it will reflect in the table.
+
+![Alt text](/screenshots/Picture7.png?raw=true "Table")
+
+Create New User in the home Page
+
+![Alt text](/screenshots/Picture8.png?raw=true "Table")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
