@@ -47,6 +47,7 @@ After added the new user, it will reflect in the table.
 ![Alt text](/screenshots/Picture9.png?raw=true "Table")
 
 Create New User in the home Page
+
 ![Alt text](/screenshots/Picture10.png?raw=true "Table")
 
 
