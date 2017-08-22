@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.fade-css {
+	opacity:0.2
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+#registerBtn{
+	text-align:center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#loginPanel{
+	 margin: 0 auto;
+	 width:35%;
+}
+.jumbotron {
+        margin: 148px;
+        background-color: bisque !important;
+}
+
+
+h2{
+  text-align: center;
+}
+.row{
+  margin: 0 auto;
+}
+.login{
+  text-align: center;
+}
+.bottom{
+  text-align: center;
+}
